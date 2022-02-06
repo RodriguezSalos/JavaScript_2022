@@ -1,0 +1,8 @@
+1.- Investigar porque al comparar dos cadenas con el operador && nos devuelve la segunda cadena y porque al comparar una cadena contra un valor booleano "true" o "false", nos devuelve el valor booleano
+
+R= Porque JavaScript busca el primero falso y si no retorna el ultimo valor verdadero
+
+
+2.- Investigar porque al comparar dos cadenas con el operador || nos devuelve la primera cadena y porque al comparar una cadena contra un valor booleano "true" o "false", nos devuelve la cadena
+
+R= Porque JavaScript busca primero el valor verdadero y lo muestra y si no retorna falso
